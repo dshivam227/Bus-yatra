@@ -29,7 +29,7 @@ export default function Homepage({ history }) {
                     </h1>
                 </div>
 
-                {/* <a href="/#" onClick={e => enterSite(e)} className="mainBtn">
+                <a href="/#" onClick={e => enterSite(e)} className="mainBtn">
                     <svg width="277" height="62">
                         <defs>
                             <linearGradient id="grad1">
@@ -42,7 +42,7 @@ export default function Homepage({ history }) {
 
                     
                     <span >Book Now!</span>
-                </a> */}
+                </a>
             </div>
            
         </div>
