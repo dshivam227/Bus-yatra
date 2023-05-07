@@ -1,0 +1,20 @@
+{
+  "name": "bus-yatra",
+  "version": "1.0.0",
+  "description": "A Bus ticket booking application made using MERN Stack (MongoDB, Express js, React js, Node js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dshivam227/Bus-yatra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dshivam227/Bus-yatra/issues"
+  },
+  "homepage": "https://github.com/dshivam227/Bus-yatra#readme"
+}
